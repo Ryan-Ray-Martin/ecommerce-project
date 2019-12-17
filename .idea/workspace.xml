@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26c1555e-a5ea-417e-b1ab-e2c9d0f487cf" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    <list default="true" id="26c1555e-a5ea-417e-b1ab-e2c9d0f487cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,12 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/menu-item" />
+      <recent name="$PROJECT_DIR$/src/components/homepage" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -81,8 +81,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576527860642</updated>
-      <workItem from="1576527862059" duration="1591000" />
+      <workItem from="1576527862059" duration="5545000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1576529500180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576529500180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,9 +101,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="31" key="CommitChangelistDialog2" timestamp="1576529362873">
+    <state x="616" y="31" key="CommitChangelistDialog2" timestamp="1576529499977">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="616" y="31" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1576529362873" />
+    <state x="616" y="31" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1576529499977" />
+    <state x="640" y="168" key="Vcs.Push.Dialog.v2" timestamp="1576529503861">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="640" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1576529503861" />
   </component>
 </project>
