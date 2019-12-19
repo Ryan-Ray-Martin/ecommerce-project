@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c1555e-a5ea-417e-b1ab-e2c9d0f487cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview_collection.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homepage/homepage.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/homepage/homepage.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homepage/homepage.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/homepage/homepage.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,15 +43,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src/components/menu-item" />
       <recent name="$PROJECT_DIR$/src/components/homepage" />
     </key>
@@ -87,7 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1576527860642</updated>
       <workItem from="1576527862059" duration="6703000" />
-      <workItem from="1576572725736" duration="2264000" />
+      <workItem from="1576572725736" duration="3087000" />
+      <workItem from="1576648100255" duration="4034000" />
+      <workItem from="1576719975520" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1576529500180</created>
@@ -110,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576558483401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update menu items to navigate with router HOC">
+      <created>1576576247412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576576247412</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,14 +141,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="update menu items to navigate with router HOC" />
+    <option name="LAST_COMMIT_MESSAGE" value="update menu items to navigate with router HOC" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="9" key="CommitChangelistDialog2" timestamp="1576558483279">
+    <state x="320" y="115" key="#ESLint" timestamp="1576649908290">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="115" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1576649908290" />
+    <state x="616" y="31" key="CommitChangelistDialog2" timestamp="1576576247156">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
     <state x="616" y="9" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1576558483279" />
-    <state x="616" y="31" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1576557655428" />
+    <state x="616" y="31" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1576576247156" />
     <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1576567864163">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -143,10 +170,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576567864162" />
-    <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1576558488080">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="640" y="168" key="Vcs.Push.Dialog.v2" timestamp="1576576250100">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="640" y="161" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1576558488080" />
-    <state x="640" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1576557658644" />
+    <state x="640" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1576576250100" />
   </component>
 </project>
